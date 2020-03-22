@@ -1,7 +1,7 @@
 -- CS234 Project
 -- Submitted by:
 -- 	Akshay Raj PB
---  Gokul K
+-- 	Gokul K
 
 library ieee;
 use ieee.std_logic_1164.all;
