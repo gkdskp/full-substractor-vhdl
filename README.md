@@ -1,4 +1,4 @@
-# Full-substractor-vhdl
+# full-substractor-vhdl
 Full substractor implemented using VHDL
 
 ## Requirements
